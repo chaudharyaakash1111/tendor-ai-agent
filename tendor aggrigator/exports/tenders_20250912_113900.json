@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "68c3b46bdbc99263edcd864d",
+    "tender_id": "ET-2025-001",
+    "organization": "Ministry of Electronics and Information Technology Supply",
+    "category": "IT Services",
+    "location": "New Delhi Supply",
+    "value": 2500000.0,
+    "deadline": "2025-10-15 00:00:00",
+    "description": "Supply and installation of servers and networking equipment",
+    "link": "https://etenders.gov.in/eprocure/app?page=FrontEndTenderDetails&service=page&isOpen=1&tenderId=12345"
+  },
+  {
+    "_id": "68c3b46bdbc99263edcd864e",
+    "tender_id": "ET-2025-002",
+    "organization": "National Highways Authority of India Construction",
+    "category": "Construction",
+    "location": "India",
+    "value": 500000000.0,
+    "deadline": "2025-11-20 00:00:00",
+    "description": "Construction of highway bridge",
+    "link": "https://etenders.gov.in/eprocure/app?page=FrontEndTenderDetails&service=page&isOpen=1&tenderId=12346"
+  },
+  {
+    "_id": "68c3b46bdbc99263edcd864f",
+    "tender_id": "ET-2025-003",
+    "organization": "Indian Railways Annual maintenance of railway signaling equipment",
+    "category": "Maintenance",
+    "location": "Kolkata",
+    "value": 1500000.0,
+    "deadline": "2025-09-30 00:00:00",
+    "description": "Annual maintenance of railway signaling equipment",
+    "link": "https://etenders.gov.in/eprocure/app?page=FrontEndTenderDetails&service=page&isOpen=1&tenderId=12347"
+  },
+  {
+    "_id": "68c3b46bdbc99263edcd8650",
+    "tender_id": "GEM-2025-001",
+    "organization": "Department of Defence Procurement",
+    "category": "Electronics",
+    "location": "India",
+    "value": 10000000.0,
+    "deadline": "2025-05-10 00:00:00",
+    "description": "Procurement of communication equipment for military use",
+    "link": "https://gem.gov.in/tenders/GEM-2025-001"
+  },
+  {
+    "_id": "68c3b46bdbc99263edcd8651",
+    "tender_id": "GEM-2025-002",
+    "organization": "Ministry of Health Supply of ICU",
+    "category": "Medical Equipment",
+    "location": "India",
+    "value": 50000000.0,
+    "deadline": "2025-10-11 00:00:00",
+    "description": "Supply of ICU medical devices to government hospitals",
+    "link": "https://gem.gov.in/tenders/GEM-2025-002"
+  },
+  {
+    "_id": "68c3b46bdbc99263edcd8652",
+    "tender_id": "GEM-2025-003",
+    "organization": "Department of Education Supply",
+    "category": "Furniture",
+    "location": "India",
+    "value": 7500000.0,
+    "deadline": "2025-09-25 00:00:00",
+    "description": "Supply of laboratory furniture for schools",
+    "link": "https://gem.gov.in/tenders/GEM-2025-003"
+  },
+  {
+    "_id": "68c3b46bdbc99263edcd8653",
+    "tender_id": "GEM-2025-004",
+    "organization": "Indian Space Research Organisation Calibration",
+    "category": "Scientific Equipment",
+    "location": "India",
+    "value": 250000000.0,
+    "deadline": "2025-01-12 00:00:00",
+    "description": "Calibration equipment for satellite testing facility",
+    "link": "https://gem.gov.in/tenders/GEM-2025-004"
+  }
+]
